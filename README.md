@@ -1,2 +1,2 @@
 # recipies-odin
-https://www.theodinproject.com/mstile-310x310.png
+A simple website with recipies, ingridients and pictures
